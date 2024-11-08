@@ -13,8 +13,11 @@ and full-stack development using React, Node.js, TypeScript, and more. I’m pas
 
 📫 How to Reach Me:
 Email: surafel@amplitude.ventures
+
 LinkedIn: Surafel Amsalu
+
 Twitter: @surafelamsalu21
+
 Website: surafelamsalu.netlify.app
 
 😄 Pronouns: He/Him
