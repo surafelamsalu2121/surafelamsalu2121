@@ -21,5 +21,6 @@ Twitter: @surafelamsalu21
 Website: surafelamsalu.netlify.app
 
 😄 Pronouns: He/Him
+
 ⚡ Fun Fact: When I’m not coding, you’ll find me running, playing football, or solving puzzles to sharpen my mind.
 <!--- surafelamsalu2121/surafelamsalu2121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
